@@ -43,7 +43,7 @@ jobs:
       - name: Run API tests
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            npx cypress run -- --expose grepTags="${{ inputs.test_tag }}"
+            npx cypress run --expose grepTags="${{ inputs.test_tag }}"
           else
             npx cypress run
           fi
