@@ -1,0 +1,7 @@
+{
+  "nombre": "QA Candidate",
+  "correo": "qa.contact@example.com",
+  "asunto": "Consulta desde Cypress",
+  "mensaje": "Este mensaje valida el formulario de contacto como parte de la maqueta E2E.",
+  "adjunto": "cypress/fixtures/adjunto-contacto.txt"
+}

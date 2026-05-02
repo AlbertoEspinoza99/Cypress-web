@@ -1,0 +1,5 @@
+{
+  "nombre": "Fixtures para representar datos",
+  "correo": "hola@cypress.io",
+  "cuerpo": "Los fixtures son utiles para simular datos en respuestas de rutas"
+}

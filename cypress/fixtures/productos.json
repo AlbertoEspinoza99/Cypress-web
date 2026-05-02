@@ -1,0 +1,15 @@
+{
+  "busqueda": {
+    "termino": "Blue Top"
+  },
+  "primerProducto": {
+    "id": "1",
+    "nombre": "Blue Top",
+    "precio": "Rs. 500"
+  },
+  "segundoProducto": {
+    "id": "2",
+    "nombre": "Men Tshirt",
+    "precio": "Rs. 400"
+  }
+}

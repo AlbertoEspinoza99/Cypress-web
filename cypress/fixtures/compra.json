@@ -1,0 +1,12 @@
+{
+  "pedido": {
+    "comentario": "Orden generada desde la maqueta Cypress para validar el flujo de compra."
+  },
+  "pago": {
+    "nombreEnTarjeta": "QA Candidate",
+    "numeroTarjeta": "4111111111111111",
+    "cvc": "123",
+    "mesVencimiento": "12",
+    "anioVencimiento": "2030"
+  }
+}

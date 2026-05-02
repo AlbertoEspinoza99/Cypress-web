@@ -1,0 +1,25 @@
+{
+  "usuarioNuevo": {
+    "titulo": "Mr",
+    "nombre": "QA Candidate",
+    "correo": "qa.candidate.{{unique}}@example.com",
+    "contrasena": "Test1234!",
+    "diaNacimiento": "10",
+    "mesNacimiento": "May",
+    "anioNacimiento": "1995",
+    "nombrePersona": "QA",
+    "apellido": "Candidate",
+    "empresa": "Automation Demo",
+    "direccion": "123 Cypress Street",
+    "direccion2": "Suite 45",
+    "pais": "United States",
+    "estado": "Florida",
+    "ciudad": "Miami",
+    "codigoPostal": "33101",
+    "numeroMovil": "5551234567"
+  },
+  "usuarioInvalido": {
+    "correo": "invalid.qa@example.com",
+    "contrasena": "WrongPassword123"
+  }
+}
