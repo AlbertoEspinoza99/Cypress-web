@@ -2,7 +2,8 @@
 
 Proyecto de automatizacion web con Cypress para validar flujos funcionales del sitio [Automation Exercise](https://automationexercise.com).
 
-La suite esta organizada con Page Object Model, fixtures para datos de prueba, comandos personalizados y reportes HTML mediante `cypress-mochawesome-reporter`.
+La suite está estructurada por funcionalidades del sitio web, con datos externos en fixtures, comandos reutilizables de Cypress y generación de reportes HTML mediante `cypress-mochawesome-reporter`.
+
 
 ## Objetivo
 
