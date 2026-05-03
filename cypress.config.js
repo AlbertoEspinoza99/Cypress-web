@@ -26,6 +26,8 @@ module.exports = defineConfig({
     chromeWebSecurity: false,
     setupNodeEvents(registrarEvento, configuracion) {
       require("cypress-mochawesome-reporter/plugin")(registrarEvento);
+      const { plugin: cypressGrepPlugin } = require("@cypress/grep/plugin");
+      cypressGrepPlugin(configuracion);
 
 
       configuracion.env = configuracion.env || {};
